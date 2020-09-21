@@ -6,7 +6,7 @@ function Home() {
   return (
     <div>
       <Head>
-        <title>Privacy and Terms and Conditions</title>
+        <title>Privacy and Terms</title>
       </Head>
 
       <main>
@@ -81,16 +81,16 @@ function Home() {
           Service. Subscriptions Some parts of the Service are billed on a
           subscription basis. To find out more about subscriptions, check the
           Subscriptions page inside the apps. Content The Service allows you to
-          use the apps (Planny & Flippy) for the use it was intended for. You
-          are responsible for the data you create and share. Links To Other Web
-          Sites The Service may contain links to third-party web sites or
-          services that are not owned or controlled by me (iCloud for example).
-          I have no control over, and assume no responsibility for, the content,
-          privacy policies, or practices of any third party web sites or
-          services. You further acknowledge and agree that I shall not be
-          responsible or liable, directly or indirectly, for any damage or loss
-          caused or alleged to be caused by or in connection with use of or
-          reliance on any such content, goods or services available on or
+          use the apps (Color Selector and Iron Buddy) for the use it was
+          intended for. You are responsible for the data you create and share.
+          Links To Other Web Sites The Service may contain links to third-party
+          web sites or services that are not owned or controlled by me (iCloud
+          for example). I have no control over, and assume no responsibility
+          for, the content, privacy policies, or practices of any third party
+          web sites or services. You further acknowledge and agree that I shall
+          not be responsible or liable, directly or indirectly, for any damage
+          or loss caused or alleged to be caused by or in connection with use of
+          or reliance on any such content, goods or services available on or
           through any such web sites or services. Changes I reserve the right,
           at my sole discretion, to modify or replace these Terms at any time.
           If a revision is material I will try to provide at least 30 days'
