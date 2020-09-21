@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "sh scripts/deploy/run.sh"
   },
   "dependencies": {
     "next": "9.5.3",
