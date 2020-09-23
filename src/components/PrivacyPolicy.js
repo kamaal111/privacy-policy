@@ -1,3 +1,7 @@
+import React from "react";
+
+import ContactMe from "./ContactMe";
+
 function PrivacyPolicy() {
   return (
     <>
@@ -46,14 +50,7 @@ function PrivacyPolicy() {
         any changes by posting the new Privacy Policy on this page. These
         changes are effective immediately after they are posted on this page.
       </p>
-      <h2>Contact Us</h2>
-      <p>
-        {`If you have any questions or suggestions about my Privacy Policy, do
-          not hesitate to contact me at `}
-        <a href="mailto:app.kamaal@gmail.com?Subject=Hello" target="_top">
-          app.kamaal@gmail.com.
-        </a>
-      </p>
+      <ContactMe from={"Privacy Policy"} />
     </>
   );
 }

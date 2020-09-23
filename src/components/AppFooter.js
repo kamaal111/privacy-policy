@@ -1,5 +1,7 @@
+import React from "react";
+
 function AppFooter() {
-  return <footer></footer>;
+  return <footer />;
 }
 
 export default AppFooter;
